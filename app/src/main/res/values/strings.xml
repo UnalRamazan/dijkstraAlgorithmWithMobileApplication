@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Dijkstra Algorithm</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="distance">Distance:</string>
+    <string name="search">Search</string>
+    <string name="two_way_street">Two-Way Street</string>
+    <string name="pre_registered_routes">Pre-registered Routes.</string>
+    <string name="un_str">Unknown</string>
+    <string name="no_data_message">Please enter the route information. Click the plus button to enter new route information.</string>
+
+    //error
+    <string name="empty_from">*From point cannot be empty!</string>
+    <string name="empty_to">*To point cannot be empty!</string>
+    <string name="empty_distance">*Distance cannot be empty!</string>
+    <string name="error_message_title">Loading Route From File</string>
+    <string name="bring_existing_route">Would you like to bring back the route we created for you? (We will not change your current route!)</string>
+    <string name="same_existing_route">Route could not be registered. This route is pre-registered. Please enter a different route.</string>
+    <string name="same_existing_route2">(For Two-Way Street)Route could not be registered. This route is pre-registered. Please enter a different route.</string>
+    <string name="error_message_title2">Delete The Route</string>
+    <string name="delete_route">Would you like to delete the route?(This step cannot be undone)</string>
+    <string name="error_message_title3">Delete All Route</string>
+    <string name="delete_all_routes">Would you like to delete the all routes?(This step cannot be undone)</string>
+
+    //image name
+    <string name="error_image_name">Error Image</string>
+    <string name="route_image_name">Route</string>
+
+    //image button name
+    <string name="search_image_button_name">Search Image Button</string>
+    <string name="add_image_button_name">Add Image Button</string>
+    <string name="select_two_way_image_button_name">Two Way Street</string>
+
+    //button name
+    <string name="add_node_button_name">Add New Node</string>
+    <string name="save_button_name">Save</string>
+    <string name="cancel_button_name">Cancel</string>
+    <string name="reset_button_name">Reset</string>
+    <string name="done_button_name">Done</string>
+</resources>
